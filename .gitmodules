@@ -1,0 +1,3 @@
+[submodule "trans"]
+	path = trans
+	url = git@github.com:wangxdmm/trans.git
